@@ -1,0 +1,43 @@
+* {
+  font-family: 'Lato';
+}
+
+h1 {
+  font-family: 'Lato Black';
+  padding: 10px;
+}
+
+h2 {
+  font-family: 'Lato Black';
+  padding: 10px;
+}
+
+.main-color {
+  background-color: #0A8EA0;
+  color: #ffffff;
+}
+
+.nabvar-custom {
+  padding: 20px;
+}
+
+.intro {
+  background: #CACCD1;
+  margin-top: 78px;
+  padding: 50px;
+  color: #52565E;
+}
+
+.content {
+  padding: 50px;
+}
+
+.thead-custom {
+  font-family: 'Lato Black';
+  color: #ffffff;
+}
+
+.ge {
+  background-color: #30C39E;
+  color: #ffffff;
+}
